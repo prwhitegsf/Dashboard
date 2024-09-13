@@ -1,0 +1,1024 @@
+Date,Event
+2019-01-01,"[""United States - New Year's Day""]"
+2019-01-03,"['Continuing Jobless Claims', 'ISM Manufacturing PMI']"
+2019-01-04,"['Nonfarm Payrolls', 'Crude Oil Inventories', 'U.S. Baker Hughes Oil Rig Count']"
+2019-01-07,['ISM Non-Manufacturing PMI']
+2019-01-08,['JOLTs Job Openings']
+2019-01-09,"['Crude Oil Inventories', '10-Year Note Auction', 'FOMC Meeting Minutes']"
+2019-01-10,"['Continuing Jobless Claims', '30-Year Bond Auction']"
+2019-01-11,"['CPI', 'U.S. Baker Hughes Oil Rig Count']"
+2019-01-15,['PPI']
+2019-01-16,['Crude Oil Inventories']
+2019-01-17,"['OPEC Monthly Report', 'Continuing Jobless Claims']"
+2019-01-18,"['IEA Monthly Report', 'Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2019-01-24,"['Continuing Jobless Claims', 'Crude Oil Inventories']"
+2019-01-25,['U.S. Baker Hughes Oil Rig Count']
+2019-01-30,"['Crude Oil Inventories', 'FOMC Statement']"
+2019-01-31,"['Crude Oil Inventories', 'FOMC Statement']"
+2019-02-01,"['Nonfarm Payrolls', 'ISM Manufacturing PMI', 'Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2019-02-05,['ISM Non-Manufacturing PMI']
+2019-02-06,"['Crude Oil Inventories', '10-Year Note Auction']"
+2019-02-07,"['Continuing Jobless Claims', '30-Year Bond Auction']"
+2019-02-08,"['WASDE Report', 'U.S. Baker Hughes Oil Rig Count']"
+2019-02-12,"['OPEC Monthly Report', 'JOLTs Job Openings']"
+2019-02-13,"['IEA Monthly Report', 'CPI', 'Crude Oil Inventories']"
+2019-02-14,"['Continuing Jobless Claims', 'PPI', 'Retail Sales']"
+2019-02-15,"['Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2019-02-20,['FOMC Meeting Minutes']
+2019-02-21,"['Continuing Jobless Claims', 'Durable Goods Orders', 'Crude Oil Inventories']"
+2019-02-22,['U.S. Baker Hughes Oil Rig Count']
+2019-02-26,['Fed Chair Powell Testifies']
+2019-02-27,"['Fed Chair Powell Testifies', 'Crude Oil Inventories']"
+2019-02-28,"['Continuing Jobless Claims', 'Core PCE Prices']"
+2019-03-01,"['ISM Manufacturing PMI', 'Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2019-03-05,['ISM Non-Manufacturing PMI']
+2019-03-06,['Crude Oil Inventories']
+2019-03-07,['Continuing Jobless Claims']
+2019-03-08,"['Nonfarm Payrolls', 'WASDE Report', 'U.S. Baker Hughes Oil Rig Count']"
+2019-03-11,['Retail Sales']
+2019-03-12,"['CPI', '10-Year Note Auction']"
+2019-03-13,"['Durable Goods Orders', 'PPI', 'Crude Oil Inventories', '30-Year Bond Auction']"
+2019-03-14,"['OPEC Monthly Report', 'Continuing Jobless Claims']"
+2019-03-15,"['IEA Monthly Report', 'JOLTs Job Openings', 'Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2019-03-20,"['Crude Oil Inventories', 'FOMC Statement']"
+2019-03-21,['Continuing Jobless Claims']
+2019-03-22,['U.S. Baker Hughes Oil Rig Count']
+2019-03-27,['Crude Oil Inventories']
+2019-03-28,"['Continuing Jobless Claims', 'Core PCE Prices']"
+2019-03-29,"['Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2019-04-01,"['Retail Sales', 'ISM Manufacturing PMI']"
+2019-04-02,['Durable Goods Orders']
+2019-04-03,"['ISM Non-Manufacturing PMI', 'Crude Oil Inventories']"
+2019-04-04,['Continuing Jobless Claims']
+2019-04-05,"['Nonfarm Payrolls', 'U.S. Baker Hughes Oil Rig Count']"
+2019-04-09,"['JOLTs Job Openings', 'WASDE Report']"
+2019-04-10,"['OPEC Monthly Report', 'CPI', 'Crude Oil Inventories', '10-Year Note Auction', 'FOMC Meeting Minutes']"
+2019-04-11,"['IEA Monthly Report', 'Continuing Jobless Claims', 'PPI', '30-Year Bond Auction']"
+2019-04-12,"['Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2019-04-17,['Crude Oil Inventories']
+2019-04-18,"['Continuing Jobless Claims', 'Retail Sales', 'U.S. Baker Hughes Oil Rig Count']"
+2019-04-24,['Crude Oil Inventories']
+2019-04-25,"['Continuing Jobless Claims', 'Durable Goods Orders']"
+2019-04-26,"['Core PCE Prices', 'Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2019-05-01,"['ISM Manufacturing PMI', 'Crude Oil Inventories', 'FOMC Statement']"
+2019-05-02,['Continuing Jobless Claims']
+2019-05-03,"['Nonfarm Payrolls', 'ISM Non-Manufacturing PMI', 'U.S. Baker Hughes Oil Rig Count']"
+2019-05-07,['JOLTs Job Openings']
+2019-05-08,"['Crude Oil Inventories', '10-Year Note Auction']"
+2019-05-09,"['Continuing Jobless Claims', 'PPI', '30-Year Bond Auction']"
+2019-05-10,"['CPI', 'WASDE Report', 'U.S. Baker Hughes Oil Rig Count']"
+2019-05-14,['OPEC Monthly Report']
+2019-05-15,"['IEA Monthly Report', 'Retail Sales', 'Crude Oil Inventories']"
+2019-05-16,['Continuing Jobless Claims']
+2019-05-17,"['Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2019-05-22,"['Crude Oil Inventories', 'FOMC Meeting Minutes']"
+2019-05-23,['Continuing Jobless Claims']
+2019-05-24,"['Durable Goods Orders', 'U.S. Baker Hughes Oil Rig Count']"
+2019-05-30,"['Continuing Jobless Claims', 'Core PCE Prices', 'Crude Oil Inventories']"
+2019-05-31,"['Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2019-06-03,['ISM Manufacturing PMI']
+2019-06-05,"['ISM Non-Manufacturing PMI', 'Crude Oil Inventories']"
+2019-06-06,['Continuing Jobless Claims']
+2019-06-07,"['Nonfarm Payrolls', 'U.S. Baker Hughes Oil Rig Count']"
+2019-06-10,['JOLTs Job Openings']
+2019-06-11,"['PPI', 'WASDE Report']"
+2019-06-12,"['CPI', 'Crude Oil Inventories', '10-Year Note Auction']"
+2019-06-14,"['IEA Monthly Report', 'Retail Sales', 'Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2019-06-19,"['Crude Oil Inventories', 'FOMC Statement']"
+2019-06-20,['Continuing Jobless Claims']
+2019-06-21,['Continuing Jobless Claims']
+2019-06-26,"['Durable Goods Orders', 'Crude Oil Inventories']"
+2019-06-27,"['Continuing Jobless Claims', 'Core PCE Prices']"
+2019-06-28,"['Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2019-07-01,['ISM Manufacturing PMI']
+2019-07-03,"['Continuing Jobless Claims', 'ISM Non-Manufacturing PMI', 'Crude Oil Inventories', 'U.S. Baker Hughes Oil Rig Count']"
+2019-07-05,['Nonfarm Payrolls']
+2019-07-09,['JOLTs Job Openings']
+2019-07-10,"['Fed Chair Powell Testifies', 'Crude Oil Inventories', '10-Year Note Auction', 'FOMC Meeting Minutes']"
+2019-07-11,"['OPEC Monthly Report', 'Continuing Jobless Claims', 'CPI', 'Fed Chair Powell Testifies', 'WASDE Report', '30-Year Bond Auction']"
+2019-07-12,"['IEA Monthly Report', 'PPI', 'U.S. Baker Hughes Oil Rig Count']"
+2019-07-16,['Retail Sales']
+2019-07-17,['Crude Oil Inventories']
+2019-07-18,['Continuing Jobless Claims']
+2019-07-19,"['Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2019-07-24,['Crude Oil Inventories']
+2019-07-25,"['Continuing Jobless Claims', 'Durable Goods Orders']"
+2019-07-26,"['Core PCE Prices', 'U.S. Baker Hughes Oil Rig Count']"
+2019-07-31,"['Crude Oil Inventories', 'FOMC Statement']"
+2019-08-01,"['Continuing Jobless Claims', 'ISM Manufacturing PMI']"
+2019-08-02,"['Nonfarm Payrolls', 'Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2019-08-05,['ISM Non-Manufacturing PMI']
+2019-08-06,['JOLTs Job Openings']
+2019-08-07,"['Crude Oil Inventories', '10-Year Note Auction']"
+2019-08-08,"['Continuing Jobless Claims', '30-Year Bond Auction']"
+2019-08-09,"['IEA Monthly Report', 'PPI', 'U.S. Baker Hughes Oil Rig Count']"
+2019-08-12,['WASDE Report']
+2019-08-13,['CPI']
+2019-08-14,['Crude Oil Inventories']
+2019-08-15,"['Continuing Jobless Claims', 'Retail Sales']"
+2019-08-16,"['OPEC Monthly Report', 'Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2019-08-21,"['Crude Oil Inventories', 'FOMC Meeting Minutes']"
+2019-08-22,['Continuing Jobless Claims']
+2019-08-23,['U.S. Baker Hughes Oil Rig Count']
+2019-08-28,['Crude Oil Inventories']
+2019-08-29,"['Continuing Jobless Claims', 'Core PCE Prices']"
+2019-08-30,"['Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2019-09-03,['ISM Manufacturing PMI']
+2019-09-05,"['Continuing Jobless Claims', 'Durable Goods Orders', 'ISM Non-Manufacturing PMI', 'Crude Oil Inventories']"
+2019-09-06,"['Nonfarm Payrolls', 'U.S. Baker Hughes Oil Rig Count']"
+2019-09-10,['JOLTs Job Openings']
+2019-09-11,"['OPEC Monthly Report', 'PPI', 'Crude Oil Inventories', '10-Year Note Auction']"
+2019-09-12,"['IEA Monthly Report', 'Continuing Jobless Claims', 'CPI', 'WASDE Report', '30-Year Bond Auction']"
+2019-09-13,"['Retail Sales', 'Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2019-09-18,"['Crude Oil Inventories', 'FOMC Statement']"
+2019-09-19,['Continuing Jobless Claims']
+2019-09-20,['U.S. Baker Hughes Oil Rig Count']
+2019-09-25,['Crude Oil Inventories']
+2019-09-26,"['Continuing Jobless Claims', 'Core PCE Prices']"
+2019-09-27,"['Durable Goods Orders', 'Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2019-10-01,['ISM Manufacturing PMI']
+2019-10-02,['Crude Oil Inventories']
+2019-10-03,"['Continuing Jobless Claims', 'ISM Non-Manufacturing PMI']"
+2019-10-04,"['Continuing Jobless Claims', 'ISM Non-Manufacturing PMI']"
+2019-10-08,['PPI']
+2019-10-09,"['JOLTs Job Openings', 'Crude Oil Inventories', '10-Year Note Auction', 'FOMC Meeting Minutes']"
+2019-10-10,"['OPEC Monthly Report', 'Continuing Jobless Claims', 'CPI', 'WASDE Report', '30-Year Bond Auction']"
+2019-10-11,"['IEA Monthly Report', 'Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2019-10-16,['Retail Sales']
+2019-10-17,"['Continuing Jobless Claims', 'Crude Oil Inventories']"
+2019-10-18,['U.S. Baker Hughes Oil Rig Count']
+2019-10-23,['Crude Oil Inventories']
+2019-10-24,"['Continuing Jobless Claims', 'Durable Goods Orders']"
+2019-10-25,"['Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2019-10-30,"['Core PCE Prices', 'Crude Oil Inventories', 'FOMC Statement']"
+2019-10-31,['Continuing Jobless Claims']
+2019-11-01,"['Nonfarm Payrolls', 'ISM Manufacturing PMI', 'U.S. Baker Hughes Oil Rig Count']"
+2019-11-02,"['Nonfarm Payrolls', 'ISM Manufacturing PMI', 'U.S. Baker Hughes Oil Rig Count']"
+2019-11-05,"['ISM Non-Manufacturing PMI', 'JOLTs Job Openings']"
+2019-11-06,"['Crude Oil Inventories', '10-Year Note Auction']"
+2019-11-07,"['Continuing Jobless Claims', '30-Year Bond Auction']"
+2019-11-08,"['Michigan Consumer Expectations', 'WASDE Report', 'U.S. Baker Hughes Oil Rig Count']"
+2019-11-13,"['CPI', 'Fed Chair Powell Testifies']"
+2019-11-14,"['OPEC Monthly Report', 'Continuing Jobless Claims', 'PPI', 'Fed Chair Powell Testifies', 'Crude Oil Inventories']"
+2019-11-15,"['IEA Monthly Report', 'Retail Sales', 'U.S. Baker Hughes Oil Rig Count']"
+2019-11-20,"['Crude Oil Inventories', 'FOMC Meeting Minutes']"
+2019-11-21,['Continuing Jobless Claims']
+2019-11-22,"['Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2019-11-27,"['Continuing Jobless Claims', 'Core PCE Prices', 'Durable Goods Orders', 'Crude Oil Inventories', 'U.S. Baker Hughes Oil Rig Count']"
+2019-12-02,['ISM Manufacturing PMI']
+2019-12-04,"['ISM Non-Manufacturing PMI', 'Crude Oil Inventories']"
+2019-12-05,['Continuing Jobless Claims']
+2019-12-06,"['Nonfarm Payrolls', 'Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2019-12-10,"['WASDE Report', '10-Year Note Auction']"
+2019-12-11,"['OPEC Monthly Report', 'CPI', 'Crude Oil Inventories', 'FOMC Statement']"
+2019-12-12,"['OPEC Monthly Report', 'CPI', 'Crude Oil Inventories', 'FOMC Statement']"
+2019-12-13,"['Retail Sales', 'U.S. Baker Hughes Oil Rig Count']"
+2019-12-17,['JOLTs Job Openings']
+2019-12-18,['Crude Oil Inventories']
+2019-12-19,['Crude Oil Inventories']
+2019-12-20,"['Core PCE Prices', 'Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2019-12-23,['Durable Goods Orders']
+2019-12-26,['Continuing Jobless Claims']
+2019-12-27,"['Crude Oil Inventories', 'U.S. Baker Hughes Oil Rig Count']"
+2020-01-01,"[""United States - New Year's Day""]"
+2020-01-02,['Continuing Jobless Claims']
+2020-01-03,"['ISM Manufacturing PMI', 'Crude Oil Inventories', 'U.S. Baker Hughes Oil Rig Count', 'FOMC Meeting Minutes']"
+2020-01-07,['ISM Non-Manufacturing PMI']
+2020-01-08,"['Crude Oil Inventories', '10-Year Note Auction']"
+2020-01-09,"['Continuing Jobless Claims', '30-Year Bond Auction']"
+2020-01-10,"['Nonfarm Payrolls', 'WASDE Report', 'U.S. Baker Hughes Oil Rig Count']"
+2020-01-14,"['EIA Short-Term Energy Outlook', 'CPI']"
+2020-01-15,"['OPEC Monthly Report', 'PPI', 'Crude Oil Inventories']"
+2020-01-16,"['IEA Monthly Report', 'Continuing Jobless Claims', 'Retail Sales']"
+2020-01-17,"['JOLTs Job Openings', 'Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2020-01-23,"['Continuing Jobless Claims', 'Crude Oil Inventories']"
+2020-01-24,['U.S. Baker Hughes Oil Rig Count']
+2020-01-28,['Durable Goods Orders']
+2020-01-29,"['Crude Oil Inventories', 'FOMC Statement']"
+2020-01-30,"['Continuing Jobless Claims', 'Core PCE Prices']"
+2020-01-31,"['Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2020-02-03,['ISM Manufacturing PMI']
+2020-02-05,"['ISM Non-Manufacturing PMI', 'Crude Oil Inventories']"
+2020-02-06,['Continuing Jobless Claims']
+2020-02-07,['Continuing Jobless Claims']
+2020-02-11,"['EIA Short-Term Energy Outlook', 'Fed Chair Powell Testifies', 'JOLTs Job Openings', 'WASDE Report']"
+2020-02-12,"['OPEC Monthly Report', 'Fed Chair Powell Testifies', 'Crude Oil Inventories', '10-Year Note Auction']"
+2020-02-13,"['IEA Monthly Report', 'Continuing Jobless Claims', 'CPI', '30-Year Bond Auction']"
+2020-02-14,"['Retail Sales', 'Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2020-02-20,"['Continuing Jobless Claims', 'Crude Oil Inventories']"
+2020-02-21,['U.S. Baker Hughes Oil Rig Count']
+2020-02-26,['Crude Oil Inventories']
+2020-02-27,"['Continuing Jobless Claims', 'Core PCE Prices', 'Durable Goods Orders']"
+2020-02-28,"['Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2020-03-02,['ISM Manufacturing PMI']
+2020-03-04,"['ISM Non-Manufacturing PMI', 'Crude Oil Inventories']"
+2020-03-05,"['ISM Non-Manufacturing PMI', 'Crude Oil Inventories']"
+2020-03-06,"['Nonfarm Payrolls', 'U.S. Baker Hughes Oil Rig Count']"
+2020-03-09,['IEA Monthly Report']
+2020-03-10,['WASDE Report']
+2020-03-11,"['OPEC Monthly Report', 'EIA Short-Term Energy Outlook', 'CPI', 'Crude Oil Inventories', '10-Year Note Auction']"
+2020-03-12,"['Continuing Jobless Claims', 'PPI', '30-Year Bond Auction']"
+2020-03-13,"['Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2020-03-15,['FOMC Statement']
+2020-03-17,"['Retail Sales', 'JOLTs Job Openings']"
+2020-03-18,['Crude Oil Inventories']
+2020-03-19,['Continuing Jobless Claims']
+2020-03-20,['U.S. Baker Hughes Oil Rig Count']
+2020-03-25,"['Durable Goods Orders', 'Crude Oil Inventories']"
+2020-03-26,"['Continuing Jobless Claims', 'Core PCE Prices']"
+2020-03-27,"['Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2020-04-01,"['ISM Manufacturing PMI', 'Crude Oil Inventories']"
+2020-04-02,['Continuing Jobless Claims']
+2020-04-03,"['Nonfarm Payrolls', 'ISM Non-Manufacturing PMI', 'U.S. Baker Hughes Oil Rig Count']"
+2020-04-07,"['EIA Short-Term Energy Outlook', 'JOLTs Job Openings', '10-Year Note Auction']"
+2020-04-08,"['Crude Oil Inventories', '30-Year Bond Auction', 'FOMC Meeting Minutes']"
+2020-04-09,"['Continuing Jobless Claims', 'PPI', 'Michigan Consumer Expectations', 'WASDE Report', 'U.S. Baker Hughes Oil Rig Count']"
+2020-04-10,['CPI']
+2020-04-15,"['IEA Monthly Report', 'Retail Sales', 'Crude Oil Inventories']"
+2020-04-16,"['OPEC Monthly Report', 'Continuing Jobless Claims']"
+2020-04-17,['U.S. Baker Hughes Oil Rig Count']
+2020-04-22,['Crude Oil Inventories']
+2020-04-23,['Continuing Jobless Claims']
+2020-04-24,"['Durable Goods Orders', 'Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2020-04-29,"['Core PCE Prices', 'Crude Oil Inventories', 'FOMC Statement']"
+2020-04-30,['Continuing Jobless Claims']
+2020-05-01,"['ISM Manufacturing PMI', 'U.S. Baker Hughes Oil Rig Count']"
+2020-05-05,['ISM Non-Manufacturing PMI']
+2020-05-06,['Crude Oil Inventories']
+2020-05-07,['Continuing Jobless Claims']
+2020-05-08,"['Nonfarm Payrolls', 'U.S. Baker Hughes Oil Rig Count']"
+2020-05-12,"['EIA Short-Term Energy Outlook', 'CPI', 'WASDE Report', '10-Year Note Auction']"
+2020-05-13,"['OPEC Monthly Report', 'PPI', 'Crude Oil Inventories', '30-Year Bond Auction']"
+2020-05-14,"['IEA Monthly Report', 'Continuing Jobless Claims']"
+2020-05-15,"['Retail Sales', 'JOLTs Job Openings', 'Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2020-05-19,['Fed Chair Powell Testifies']
+2020-05-20,"['Crude Oil Inventories', 'FOMC Meeting Minutes']"
+2020-05-21,['Continuing Jobless Claims']
+2020-05-22,['U.S. Baker Hughes Oil Rig Count']
+2020-05-28,"['Continuing Jobless Claims', 'Core PCE Prices', 'Durable Goods Orders', 'Crude Oil Inventories']"
+2020-05-29,"['Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2020-06-01,['ISM Manufacturing PMI']
+2020-06-03,"['ISM Non-Manufacturing PMI', 'Crude Oil Inventories']"
+2020-06-04,['Continuing Jobless Claims']
+2020-06-05,"['Nonfarm Payrolls', 'U.S. Baker Hughes Oil Rig Count']"
+2020-06-09,"['EIA Short-Term Energy Outlook', 'JOLTs Job Openings', '10-Year Note Auction']"
+2020-06-10,"['CPI', 'Crude Oil Inventories', 'FOMC Statement']"
+2020-06-11,"['Continuing Jobless Claims', 'PPI', 'WASDE Report', '30-Year Bond Auction']"
+2020-06-12,"['Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2020-06-16,"['IEA Monthly Report', 'Retail Sales', 'Fed Chair Powell Testifies']"
+2020-06-17,"['OPEC Monthly Report', 'Crude Oil Inventories', 'Fed Chair Powell Testifies']"
+2020-06-18,['Continuing Jobless Claims']
+2020-06-19,['U.S. Baker Hughes Oil Rig Count']
+2020-06-24,['Crude Oil Inventories']
+2020-06-25,"['Continuing Jobless Claims', 'Core PCE Prices', 'Durable Goods Orders']"
+2020-06-26,"['Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2020-06-30,['Fed Chair Powell Testifies']
+2020-07-01,"['ISM Manufacturing PMI', 'Crude Oil Inventories', 'FOMC Meeting Minutes']"
+2020-07-02,"['Continuing Jobless Claims', 'Nonfarm Payrolls', 'U.S. Baker Hughes Oil Rig Count']"
+2020-07-06,['ISM Non-Manufacturing PMI']
+2020-07-07,"['EIA Short-Term Energy Outlook', 'JOLTs Job Openings']"
+2020-07-08,"['Crude Oil Inventories', '10-Year Note Auction']"
+2020-07-09,"['Continuing Jobless Claims', '30-Year Bond Auction']"
+2020-07-10,"['IEA Monthly Report', 'PPI', 'WASDE Report', 'U.S. Baker Hughes Oil Rig Count']"
+2020-07-14,"['OPEC Monthly Report', 'CPI']"
+2020-07-15,['Crude Oil Inventories']
+2020-07-16,['Crude Oil Inventories']
+2020-07-17,"['Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2020-07-22,['Crude Oil Inventories']
+2020-07-23,['Continuing Jobless Claims']
+2020-07-24,['U.S. Baker Hughes Oil Rig Count']
+2020-07-27,['Durable Goods Orders']
+2020-07-29,"['Crude Oil Inventories', 'FOMC Statement']"
+2020-07-30,"['Continuing Jobless Claims', 'Core PCE Prices']"
+2020-07-31,"['Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2020-08-03,['ISM Manufacturing PMI']
+2020-08-05,"['ISM Non-Manufacturing PMI', 'Crude Oil Inventories']"
+2020-08-06,['Continuing Jobless Claims']
+2020-08-07,"['Nonfarm Payrolls', 'U.S. Baker Hughes Oil Rig Count']"
+2020-08-08,"['Nonfarm Payrolls', 'U.S. Baker Hughes Oil Rig Count']"
+2020-08-10,['JOLTs Job Openings']
+2020-08-11,"['EIA Short-Term Energy Outlook', 'PPI']"
+2020-08-12,"['OPEC Monthly Report', 'CPI', 'Crude Oil Inventories', 'WASDE Report', '10-Year Note Auction']"
+2020-08-13,"['IEA Monthly Report', 'Continuing Jobless Claims', '30-Year Bond Auction']"
+2020-08-14,"['Retail Sales', 'Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2020-08-19,"['Crude Oil Inventories', 'FOMC Meeting Minutes']"
+2020-08-20,['Continuing Jobless Claims']
+2020-08-21,['U.S. Baker Hughes Oil Rig Count']
+2020-08-26,"['Durable Goods Orders', 'Crude Oil Inventories']"
+2020-08-27,"['Continuing Jobless Claims', 'Core PCE Prices']"
+2020-08-28,"['Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2020-09-01,['ISM Manufacturing PMI']
+2020-09-02,['Crude Oil Inventories']
+2020-09-03,"['Continuing Jobless Claims', 'ISM Non-Manufacturing PMI']"
+2020-09-04,"['Nonfarm Payrolls', 'U.S. Baker Hughes Oil Rig Count']"
+2020-09-09,"['EIA Short-Term Energy Outlook', 'JOLTs Job Openings', '10-Year Note Auction']"
+2020-09-10,"['Continuing Jobless Claims', 'PPI', 'Crude Oil Inventories', '30-Year Bond Auction']"
+2020-09-11,"['CPI', 'WASDE Report', 'U.S. Baker Hughes Oil Rig Count']"
+2020-09-14,['OPEC Monthly Report']
+2020-09-15,['IEA Monthly Report']
+2020-09-16,"['Retail Sales', 'Crude Oil Inventories', 'FOMC Statement']"
+2020-09-17,['Continuing Jobless Claims']
+2020-09-18,"['Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2020-09-22,['Fed Chair Powell Testifies']
+2020-09-23,"['Fed Chair Powell Testifies', 'Crude Oil Inventories']"
+2020-09-24,"['Continuing Jobless Claims', 'Fed Chair Powell Testifies']"
+2020-09-25,"['Durable Goods Orders', 'U.S. Baker Hughes Oil Rig Count']"
+2020-09-30,"['Core PCE Prices', 'Crude Oil Inventories']"
+2020-10-01,"['Continuing Jobless Claims', 'ISM Manufacturing PMI']"
+2020-10-02,"['Nonfarm Payrolls', 'Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2020-10-03,"['Nonfarm Payrolls', 'Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2020-10-05,['ISM Non-Manufacturing PMI']
+2020-10-06,"['EIA Short-Term Energy Outlook', 'JOLTs Job Openings']"
+2020-10-07,"['Crude Oil Inventories', '10-Year Note Auction', 'FOMC Meeting Minutes', 'FOMC Statement']"
+2020-10-08,"['Continuing Jobless Claims', '30-Year Bond Auction']"
+2020-10-09,"['WASDE Report', 'U.S. Baker Hughes Oil Rig Count']"
+2020-10-13,"['OPEC Monthly Report', 'CPI']"
+2020-10-14,"['IEA Monthly Report', 'PPI']"
+2020-10-15,"['IEA Monthly Report', 'PPI']"
+2020-10-16,"['Retail Sales', 'Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2020-10-21,['Crude Oil Inventories']
+2020-10-23,['U.S. Baker Hughes Oil Rig Count']
+2020-10-27,['Durable Goods Orders']
+2020-10-28,['Crude Oil Inventories']
+2020-10-29,"['Continuing Jobless Claims', 'Core PCE Prices']"
+2020-10-30,"['Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2020-10-31,"['Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2020-11-02,['ISM Manufacturing PMI']
+2020-11-04,"['ISM Non-Manufacturing PMI', 'Crude Oil Inventories']"
+2020-11-05,"['Continuing Jobless Claims', 'FOMC Statement']"
+2020-11-06,"['Nonfarm Payrolls', 'U.S. Baker Hughes Oil Rig Count']"
+2020-11-10,"['EIA Short-Term Energy Outlook', 'JOLTs Job Openings', 'WASDE Report', '10-Year Note Auction']"
+2020-11-11,['OPEC Monthly Report']
+2020-11-12,"['IEA Monthly Report', 'Continuing Jobless Claims', 'CPI', 'Crude Oil Inventories', '30-Year Bond Auction']"
+2020-11-13,"['PPI', 'Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2020-11-17,['Retail Sales']
+2020-11-18,['Crude Oil Inventories']
+2020-11-19,['Continuing Jobless Claims']
+2020-11-20,['U.S. Baker Hughes Oil Rig Count']
+2020-11-25,"['Durable Goods Orders', 'Continuing Jobless Claims', 'Core PCE Prices', 'Michigan Consumer Expectations', 'Crude Oil Inventories', 'U.S. Baker Hughes Oil Rig Count', 'FOMC Meeting Minutes']"
+2020-12-01,"['Fed Chair Powell Testifies', 'ISM Manufacturing PMI']"
+2020-12-02,"['Fed Chair Powell Testifies', 'Crude Oil Inventories']"
+2020-12-03,"['Continuing Jobless Claims', 'ISM Non-Manufacturing PMI']"
+2020-12-04,"['Nonfarm Payrolls', 'U.S. Baker Hughes Oil Rig Count']"
+2020-12-08,['EIA Short-Term Energy Outlook']
+2020-12-09,"['JOLTs Job Openings', 'Crude Oil Inventories', '10-Year Note Auction']"
+2020-12-10,"['Continuing Jobless Claims', 'CPI', 'WASDE Report', '30-Year Bond Auction']"
+2020-12-11,"['PPI', 'Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2020-12-14,['OPEC Monthly Report']
+2020-12-15,['IEA Monthly Report']
+2020-12-16,"['Retail Sales', 'Crude Oil Inventories', 'FOMC Statement']"
+2020-12-17,['Continuing Jobless Claims']
+2020-12-18,['U.S. Baker Hughes Oil Rig Count']
+2020-12-22,['Core PCE Prices']
+2020-12-23,"['Continuing Jobless Claims', 'Durable Goods Orders', 'Michigan Consumer Expectations', 'Crude Oil Inventories', 'U.S. Baker Hughes Oil Rig Count']"
+2020-12-30,"['Crude Oil Inventories', 'U.S. Baker Hughes Oil Rig Count']"
+2020-12-31,['Continuing Jobless Claims']
+2021-01-01,"[""United States - New Year's Day""]"
+2021-01-05,['ISM Manufacturing PMI']
+2021-01-06,"['Crude Oil Inventories', 'FOMC Meeting Minutes']"
+2021-01-07,"['Continuing Jobless Claims', 'ISM Non-Manufacturing PMI']"
+2021-01-08,"['Nonfarm Payrolls', 'U.S. Baker Hughes Oil Rig Count']"
+2021-01-12,"['EIA Short-Term Energy Outlook', 'JOLTs Job Openings', 'WASDE Report', '10-Year Note Auction']"
+2021-01-13,"['CPI', 'Crude Oil Inventories', '30-Year Bond Auction']"
+2021-01-14,"['OPEC Monthly Report', 'Continuing Jobless Claims']"
+2021-01-15,"['PPI', 'Retail Sales', 'Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2021-01-19,['IEA Monthly Report']
+2021-01-20,['IEA Monthly Report']
+2021-01-21,['Continuing Jobless Claims']
+2021-01-22,"['Crude Oil Inventories', 'U.S. Baker Hughes Oil Rig Count']"
+2021-01-27,"['Durable Goods Orders', 'Crude Oil Inventories', 'FOMC Statement']"
+2021-01-28,"['Continuing Jobless Claims', 'Core PCE Prices']"
+2021-01-29,"['Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2021-02-01,['ISM Manufacturing PMI']
+2021-02-03,"['ISM Non-Manufacturing PMI', 'Crude Oil Inventories']"
+2021-02-04,['Continuing Jobless Claims']
+2021-02-05,"['Nonfarm Payrolls', 'U.S. Baker Hughes Oil Rig Count']"
+2021-02-09,"['EIA Short-Term Energy Outlook', 'JOLTs Job Openings', 'WASDE Report']"
+2021-02-10,"['CPI', 'Crude Oil Inventories', '10-Year Note Auction']"
+2021-02-11,"['IEA Monthly Report', 'OPEC Monthly Report', 'Continuing Jobless Claims', '30-Year Bond Auction']"
+2021-02-12,"['Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2021-02-17,"['PPI', 'Retail Sales', 'FOMC Meeting Minutes']"
+2021-02-18,"['Continuing Jobless Claims', 'Crude Oil Inventories']"
+2021-02-19,['U.S. Baker Hughes Oil Rig Count']
+2021-02-23,['Fed Chair Powell Testifies']
+2021-02-24,"['Fed Chair Powell Testifies', 'Crude Oil Inventories']"
+2021-02-25,"['Continuing Jobless Claims', 'Core PCE Prices', 'Durable Goods Orders']"
+2021-02-26,"['Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2021-03-01,['ISM Manufacturing PMI']
+2021-03-03,"['ISM Non-Manufacturing PMI', 'Crude Oil Inventories']"
+2021-03-04,['Continuing Jobless Claims']
+2021-03-05,"['Nonfarm Payrolls', 'U.S. Baker Hughes Oil Rig Count']"
+2021-03-09,"['EIA Short-Term Energy Outlook', 'WASDE Report']"
+2021-03-10,"['EIA Short-Term Energy Outlook', 'WASDE Report']"
+2021-03-11,"['OPEC Monthly Report', 'Continuing Jobless Claims', 'JOLTs Job Openings', '30-Year Bond Auction']"
+2021-03-12,"['PPI', 'Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2021-03-16,['Retail Sales']
+2021-03-17,"['IEA Monthly Report', 'Crude Oil Inventories', 'FOMC Statement']"
+2021-03-18,['Continuing Jobless Claims']
+2021-03-19,['U.S. Baker Hughes Oil Rig Count']
+2021-03-23,['Fed Chair Powell Testifies']
+2021-03-24,"['Durable Goods Orders', 'Fed Chair Powell Testifies', 'Crude Oil Inventories']"
+2021-03-25,"['Continuing Jobless Claims', 'Core PCE Prices']"
+2021-03-26,"['Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2021-03-31,['Crude Oil Inventories']
+2021-04-01,"['Continuing Jobless Claims', 'ISM Manufacturing PMI', 'U.S. Baker Hughes Oil Rig Count']"
+2021-04-02,['Nonfarm Payrolls']
+2021-04-05,['ISM Non-Manufacturing PMI']
+2021-04-06,"['JOLTs Job Openings', 'EIA Short-Term Energy Outlook']"
+2021-04-07,"['Crude Oil Inventories', 'FOMC Meeting Minutes']"
+2021-04-08,['Continuing Jobless Claims']
+2021-04-09,"['PPI', 'WASDE Report', 'U.S. Baker Hughes Oil Rig Count']"
+2021-04-12,['10-Year Note Auction']
+2021-04-13,"['OPEC Monthly Report', 'CPI', '30-Year Bond Auction']"
+2021-04-14,"['IEA Monthly Report', 'Crude Oil Inventories']"
+2021-04-15,"['Continuing Jobless Claims', 'Retail Sales']"
+2021-04-16,"['Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2021-04-21,['Crude Oil Inventories']
+2021-04-22,['Continuing Jobless Claims']
+2021-04-23,['U.S. Baker Hughes Oil Rig Count']
+2021-04-24,['U.S. Baker Hughes Oil Rig Count']
+2021-04-26,['Durable Goods Orders']
+2021-04-28,"['Crude Oil Inventories', 'FOMC Statement']"
+2021-04-29,"['Continuing Jobless Claims', 'Core PCE Prices']"
+2021-04-30,"['Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2021-05-03,['ISM Manufacturing PMI']
+2021-05-06,['Continuing Jobless Claims']
+2021-05-07,"['Nonfarm Payrolls', 'U.S. Baker Hughes Oil Rig Count']"
+2021-05-11,"['OPEC Monthly Report', 'JOLTs Job Openings', 'EIA Short-Term Energy Outlook']"
+2021-05-12,"['IEA Monthly Report', 'CPI', 'Crude Oil Inventories', 'WASDE Report', '10-Year Note Auction']"
+2021-05-13,"['Continuing Jobless Claims', 'PPI', '30-Year Bond Auction']"
+2021-05-14,"['Retail Sales', 'Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2021-05-19,"['Crude Oil Inventories', 'FOMC Meeting Minutes']"
+2021-05-20,['Continuing Jobless Claims']
+2021-05-21,['U.S. Baker Hughes Oil Rig Count']
+2021-05-26,['Crude Oil Inventories']
+2021-05-27,"['Continuing Jobless Claims', 'Core PCE Prices', 'Durable Goods Orders']"
+2021-05-28,"['Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2021-06-03,"['Continuing Jobless Claims', 'ISM Non-Manufacturing PMI', 'Crude Oil Inventories']"
+2021-06-04,"['Nonfarm Payrolls', 'U.S. Baker Hughes Oil Rig Count']"
+2021-06-08,"['JOLTs Job Openings', 'EIA Short-Term Energy Outlook']"
+2021-06-09,"['Crude Oil Inventories', '10-Year Note Auction']"
+2021-06-10,"['OPEC Monthly Report', 'Continuing Jobless Claims', 'CPI', 'WASDE Report', '30-Year Bond Auction']"
+2021-06-11,"['IEA Monthly Report', 'Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2021-06-15,"['PPI', 'Retail Sales']"
+2021-06-16,"['Crude Oil Inventories', 'FOMC Statement']"
+2021-06-17,['Continuing Jobless Claims']
+2021-06-18,['U.S. Baker Hughes Oil Rig Count']
+2021-06-22,['Fed Chair Powell Testifies']
+2021-06-23,['Crude Oil Inventories']
+2021-06-24,"['Continuing Jobless Claims', 'Core PCE Prices', 'Durable Goods Orders']"
+2021-06-25,"['Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2021-06-30,['Crude Oil Inventories']
+2021-07-01,"['Continuing Jobless Claims', 'ISM Manufacturing PMI']"
+2021-07-02,"['Nonfarm Payrolls', 'U.S. Baker Hughes Oil Rig Count']"
+2021-07-06,['ISM Non-Manufacturing PMI']
+2021-07-07,"['JOLTs Job Openings', 'EIA Short-Term Energy Outlook', 'FOMC Meeting Minutes']"
+2021-07-08,"['Continuing Jobless Claims', 'Crude Oil Inventories']"
+2021-07-09,['U.S. Baker Hughes Oil Rig Count']
+2021-07-12,"['WASDE Report', '10-Year Note Auction']"
+2021-07-13,"['IEA Monthly Report', 'CPI', '30-Year Bond Auction']"
+2021-07-14,"['PPI', 'Crude Oil Inventories', 'Fed Chair Powell Testifies']"
+2021-07-15,"['OPEC Monthly Report', 'Continuing Jobless Claims', 'Fed Chair Powell Testifies']"
+2021-07-16,"['Retail Sales', 'Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2021-07-21,['Crude Oil Inventories']
+2021-07-22,['Continuing Jobless Claims']
+2021-07-23,['U.S. Baker Hughes Oil Rig Count']
+2021-07-27,['Durable Goods Orders']
+2021-07-28,"['Crude Oil Inventories', 'FOMC Statement']"
+2021-07-29,"['Continuing Jobless Claims', 'Core PCE Prices']"
+2021-07-30,"['Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2021-08-02,['ISM Manufacturing PMI']
+2021-08-04,"['ISM Non-Manufacturing PMI', 'Crude Oil Inventories']"
+2021-08-05,['Continuing Jobless Claims']
+2021-08-06,"['Nonfarm Payrolls', 'U.S. Baker Hughes Oil Rig Count']"
+2021-08-09,['JOLTs Job Openings']
+2021-08-10,['EIA Short-Term Energy Outlook']
+2021-08-11,"['CPI', 'Crude Oil Inventories', '10-Year Note Auction']"
+2021-08-12,"['IEA Monthly Report', 'OPEC Monthly Report', 'Continuing Jobless Claims', 'PPI', 'WASDE Report', '30-Year Bond Auction']"
+2021-08-13,"['Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2021-08-17,['Retail Sales']
+2021-08-18,"['Crude Oil Inventories', 'FOMC Meeting Minutes']"
+2021-08-19,['Continuing Jobless Claims']
+2021-08-20,['U.S. Baker Hughes Oil Rig Count']
+2021-08-25,"['Durable Goods Orders', 'Crude Oil Inventories']"
+2021-08-26,"['Durable Goods Orders', 'Crude Oil Inventories']"
+2021-08-27,"['Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2021-09-01,"['ISM Manufacturing PMI', 'Crude Oil Inventories']"
+2021-09-02,['Continuing Jobless Claims']
+2021-09-03,"['Nonfarm Payrolls', 'ISM Non-Manufacturing PMI', 'U.S. Baker Hughes Oil Rig Count']"
+2021-09-08,"['JOLTs Job Openings', '10-Year Note Auction']"
+2021-09-09,"['Continuing Jobless Claims', 'Crude Oil Inventories', '30-Year Bond Auction']"
+2021-09-10,"['PPI', 'WASDE Report', 'U.S. Baker Hughes Oil Rig Count']"
+2021-09-13,['OPEC Monthly Report']
+2021-09-14,"['IEA Monthly Report', 'CPI']"
+2021-09-15,['Crude Oil Inventories']
+2021-09-16,"['Continuing Jobless Claims', 'Retail Sales']"
+2021-09-17,"['Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2021-09-22,"['Crude Oil Inventories', 'FOMC Statement']"
+2021-09-23,['Continuing Jobless Claims']
+2021-09-24,['U.S. Baker Hughes Oil Rig Count']
+2021-09-27,['Durable Goods Orders']
+2021-09-28,['Fed Chair Powell Testifies']
+2021-09-29,['Crude Oil Inventories']
+2021-09-30,"['Continuing Jobless Claims', 'Core PCE Prices', 'Fed Chair Powell Testifies']"
+2021-10-01,"['ISM Manufacturing PMI', 'Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2021-10-05,['ISM Non-Manufacturing PMI']
+2021-10-06,['Crude Oil Inventories']
+2021-10-07,['Crude Oil Inventories']
+2021-10-08,"['Nonfarm Payrolls', 'U.S. Baker Hughes Oil Rig Count']"
+2021-10-12,"['JOLTs Job Openings', 'WASDE Report', '10-Year Note Auction']"
+2021-10-13,"['OPEC Monthly Report', 'CPI', '30-Year Bond Auction', 'FOMC Meeting Minutes']"
+2021-10-14,"['IEA Monthly Report', 'Continuing Jobless Claims', 'PPI', 'Crude Oil Inventories']"
+2021-10-15,"['Retail Sales', 'Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2021-10-20,['Crude Oil Inventories']
+2021-10-21,['Continuing Jobless Claims']
+2021-10-22,['U.S. Baker Hughes Oil Rig Count']
+2021-10-27,"['Durable Goods Orders', 'Crude Oil Inventories']"
+2021-10-28,"['Continuing Jobless Claims', 'Core PCE Prices']"
+2021-10-29,"['Continuing Jobless Claims', 'Core PCE Prices']"
+2021-11-01,['ISM Manufacturing PMI']
+2021-11-02,['ISM Manufacturing PMI']
+2021-11-03,"['ISM Non-Manufacturing PMI', 'Crude Oil Inventories', 'FOMC Statement']"
+2021-11-04,['Continuing Jobless Claims']
+2021-11-05,"['Nonfarm Payrolls', 'U.S. Baker Hughes Oil Rig Count']"
+2021-11-09,"['PPI', 'EIA Short-Term Energy Outlook', 'WASDE Report', '10-Year Note Auction']"
+2021-11-10,"['Continuing Jobless Claims', 'CPI', 'Crude Oil Inventories', '30-Year Bond Auction']"
+2021-11-11,['OPEC Monthly Report']
+2021-11-12,"['JOLTs Job Openings', 'Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2021-11-16,"['IEA Monthly Report', 'Retail Sales']"
+2021-11-17,['Crude Oil Inventories']
+2021-11-18,['Continuing Jobless Claims']
+2021-11-19,['U.S. Baker Hughes Oil Rig Count']
+2021-11-24,"['Continuing Jobless Claims', 'Core PCE Prices', 'Durable Goods Orders', 'Michigan Consumer Expectations', 'Crude Oil Inventories', 'U.S. Baker Hughes Oil Rig Count', 'FOMC Meeting Minutes']"
+2021-11-30,['Fed Chair Powell Testifies']
+2021-12-01,"['Fed Chair Powell Testifies', 'ISM Manufacturing PMI', 'Crude Oil Inventories']"
+2021-12-02,['Continuing Jobless Claims']
+2021-12-03,"['Nonfarm Payrolls', 'ISM Non-Manufacturing PMI', 'U.S. Baker Hughes Oil Rig Count']"
+2021-12-04,"['Nonfarm Payrolls', 'ISM Non-Manufacturing PMI', 'U.S. Baker Hughes Oil Rig Count']"
+2021-12-07,['EIA Short-Term Energy Outlook']
+2021-12-08,"['JOLTs Job Openings', 'Crude Oil Inventories', '10-Year Note Auction']"
+2021-12-09,"['Continuing Jobless Claims', 'WASDE Report', '30-Year Bond Auction']"
+2021-12-10,"['CPI', 'Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2021-12-13,['OPEC Monthly Report']
+2021-12-14,"['IEA Monthly Report', 'PPI']"
+2021-12-15,"['Retail Sales', 'Crude Oil Inventories', 'FOMC Statement']"
+2021-12-16,['Continuing Jobless Claims']
+2021-12-17,['U.S. Baker Hughes Oil Rig Count']
+2021-12-22,"['Core PCE Prices', 'Crude Oil Inventories']"
+2021-12-23,"['Continuing Jobless Claims', 'Durable Goods Orders', 'Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2021-12-30,['Continuing Jobless Claims']
+2021-12-31,['U.S. Baker Hughes Oil Rig Count']
+2022-01-04,"['ISM Manufacturing PMI', 'JOLTs Job Openings']"
+2022-01-05,"['Crude Oil Inventories', 'FOMC Meeting Minutes']"
+2022-01-06,"['Continuing Jobless Claims', 'ISM Non-Manufacturing PMI']"
+2022-01-07,"['Nonfarm Payrolls', 'U.S. Baker Hughes Oil Rig Count']"
+2022-01-11,"['Fed Chair Powell Testifies', 'EIA Short-Term Energy Outlook']"
+2022-01-12,"['CPI', 'Crude Oil Inventories', 'WASDE Report', '10-Year Note Auction']"
+2022-01-13,"['Continuing Jobless Claims', 'PPI', '30-Year Bond Auction']"
+2022-01-14,"['Retail Sales', 'Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2022-01-18,['OPEC Monthly Report']
+2022-01-19,['IEA Monthly Report']
+2022-01-20,"['Continuing Jobless Claims', 'Crude Oil Inventories']"
+2022-01-21,['U.S. Baker Hughes Oil Rig Count']
+2022-01-22,['U.S. Baker Hughes Oil Rig Count']
+2022-01-26,"['Crude Oil Inventories', 'FOMC Statement']"
+2022-01-27,"['Continuing Jobless Claims', 'Core PCE Prices', 'Durable Goods Orders']"
+2022-01-28,"['Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2022-02-01,"['ISM Manufacturing PMI', 'JOLTs Job Openings']"
+2022-02-02,['Crude Oil Inventories']
+2022-02-03,"['Continuing Jobless Claims', 'ISM Non-Manufacturing PMI']"
+2022-02-04,"['Nonfarm Payrolls', 'U.S. Baker Hughes Oil Rig Count']"
+2022-02-08,['EIA Short-Term Energy Outlook']
+2022-02-09,"['Crude Oil Inventories', 'WASDE Report', '10-Year Note Auction']"
+2022-02-10,"['OPEC Monthly Report', 'Continuing Jobless Claims', 'CPI', '30-Year Bond Auction']"
+2022-02-11,"['IEA Monthly Report', 'Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2022-02-15,['PPI']
+2022-02-16,"['Retail Sales', 'Crude Oil Inventories', 'FOMC Meeting Minutes']"
+2022-02-17,['Continuing Jobless Claims']
+2022-02-18,['U.S. Baker Hughes Oil Rig Count']
+2022-02-24,"['Continuing Jobless Claims', 'Core PCE Prices', 'Crude Oil Inventories']"
+2022-02-25,"['Durable Goods Orders', 'Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2022-03-01,['ISM Manufacturing PMI']
+2022-03-02,"['Fed Chair Powell Testifies', 'Crude Oil Inventories']"
+2022-03-03,"['Continuing Jobless Claims', 'Fed Chair Powell Testifies', 'ISM Non-Manufacturing PMI']"
+2022-03-04,"['Nonfarm Payrolls', 'U.S. Baker Hughes Oil Rig Count']"
+2022-03-08,['EIA Short-Term Energy Outlook']
+2022-03-09,"['JOLTs Job Openings', 'Crude Oil Inventories', 'WASDE Report', '10-Year Note Auction']"
+2022-03-10,"['Continuing Jobless Claims', 'CPI', '30-Year Bond Auction']"
+2022-03-11,"['Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2022-03-15,"['OPEC Monthly Report', 'PPI']"
+2022-03-16,"['IEA Monthly Report', 'Retail Sales', 'Crude Oil Inventories', 'FOMC Statement']"
+2022-03-17,['Continuing Jobless Claims']
+2022-03-18,['U.S. Baker Hughes Oil Rig Count']
+2022-03-23,['Crude Oil Inventories']
+2022-03-24,"['Continuing Jobless Claims', 'Durable Goods Orders']"
+2022-03-25,"['Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2022-03-29,['JOLTs Job Openings']
+2022-03-30,"['Core PCE Prices', 'Crude Oil Inventories']"
+2022-03-31,['Continuing Jobless Claims']
+2022-04-01,"['Nonfarm Payrolls', 'ISM Manufacturing PMI', 'U.S. Baker Hughes Oil Rig Count']"
+2022-04-05,['ISM Non-Manufacturing PMI']
+2022-04-06,"['Crude Oil Inventories', 'FOMC Meeting Minutes']"
+2022-04-07,['Continuing Jobless Claims']
+2022-04-08,"['WASDE Report', 'U.S. Baker Hughes Oil Rig Count']"
+2022-04-12,"['OPEC Monthly Report', 'CPI', 'EIA Short-Term Energy Outlook', '10-Year Note Auction']"
+2022-04-13,"['IEA Monthly Report', 'PPI', 'Crude Oil Inventories', '30-Year Bond Auction']"
+2022-04-14,"['Continuing Jobless Claims', 'Retail Sales', 'Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2022-04-20,['Crude Oil Inventories']
+2022-04-21,['Continuing Jobless Claims']
+2022-04-22,['U.S. Baker Hughes Oil Rig Count']
+2022-04-26,['Durable Goods Orders']
+2022-04-27,['Crude Oil Inventories']
+2022-04-28,"['Continuing Jobless Claims', 'Core PCE Prices']"
+2022-04-29,"['Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2022-05-02,['ISM Manufacturing PMI']
+2022-05-03,['JOLTs Job Openings']
+2022-05-04,"['ISM Non-Manufacturing PMI', 'Crude Oil Inventories', 'FOMC Statement']"
+2022-05-05,['Continuing Jobless Claims']
+2022-05-06,"['Nonfarm Payrolls', 'U.S. Baker Hughes Oil Rig Count']"
+2022-05-10,['EIA Short-Term Energy Outlook']
+2022-05-11,"['CPI', 'Crude Oil Inventories', '10-Year Note Auction']"
+2022-05-12,"['IEA Monthly Report', 'OPEC Monthly Report', 'Continuing Jobless Claims', 'PPI', 'WASDE Report', '30-Year Bond Auction']"
+2022-05-13,"['Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2022-05-17,['Retail Sales']
+2022-05-18,['Crude Oil Inventories']
+2022-05-19,['Continuing Jobless Claims']
+2022-05-20,['U.S. Baker Hughes Oil Rig Count']
+2022-05-25,"['Durable Goods Orders', 'Crude Oil Inventories', 'FOMC Meeting Minutes']"
+2022-05-26,"['Continuing Jobless Claims', 'Core PCE Prices']"
+2022-05-27,"['Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2022-06-01,"['ISM Manufacturing PMI', 'JOLTs Job Openings']"
+2022-06-02,"['Continuing Jobless Claims', 'Crude Oil Inventories']"
+2022-06-03,"['Nonfarm Payrolls', 'ISM Non-Manufacturing PMI', 'U.S. Baker Hughes Oil Rig Count']"
+2022-06-07,['EIA Short-Term Energy Outlook']
+2022-06-08,"['Crude Oil Inventories', '10-Year Note Auction']"
+2022-06-09,"['Continuing Jobless Claims', '30-Year Bond Auction']"
+2022-06-10,"['CPI', 'Michigan Consumer Expectations', 'WASDE Report', 'U.S. Baker Hughes Oil Rig Count']"
+2022-06-14,"['OPEC Monthly Report', 'PPI']"
+2022-06-15,"['IEA Monthly Report', 'Retail Sales', 'Crude Oil Inventories', 'FOMC Statement']"
+2022-06-16,['Continuing Jobless Claims']
+2022-06-17,['U.S. Baker Hughes Oil Rig Count']
+2022-06-22,['Fed Chair Powell Testifies']
+2022-06-23,"['Continuing Jobless Claims', 'Fed Chair Powell Testifies']"
+2022-06-24,"['Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2022-06-27,['Durable Goods Orders']
+2022-06-29,"['Core PCE Prices', 'Crude Oil Inventories']"
+2022-06-30,['Continuing Jobless Claims']
+2022-07-01,['Continuing Jobless Claims']
+2022-07-06,"['ISM Non-Manufacturing PMI', 'JOLTs Job Openings', 'FOMC Meeting Minutes']"
+2022-07-07,"['Continuing Jobless Claims', 'Crude Oil Inventories']"
+2022-07-08,"['Nonfarm Payrolls', 'U.S. Baker Hughes Oil Rig Count']"
+2022-07-12,"['OPEC Monthly Report', 'EIA Short-Term Energy Outlook', 'WASDE Report', '10-Year Note Auction']"
+2022-07-13,"['IEA Monthly Report', 'CPI', 'Crude Oil Inventories', '30-Year Bond Auction']"
+2022-07-14,"['Continuing Jobless Claims', 'PPI']"
+2022-07-15,"['Retail Sales', 'Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2022-07-20,['Crude Oil Inventories']
+2022-07-21,['Continuing Jobless Claims']
+2022-07-22,['U.S. Baker Hughes Oil Rig Count']
+2022-07-27,"['Durable Goods Orders', 'Crude Oil Inventories', 'FOMC Statement']"
+2022-07-28,"['Continuing Jobless Claims', 'Core PCE Prices']"
+2022-07-29,"['Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2022-08-01,['ISM Manufacturing PMI']
+2022-08-02,['JOLTs Job Openings']
+2022-08-03,"['ISM Non-Manufacturing PMI', 'Crude Oil Inventories']"
+2022-08-04,['Continuing Jobless Claims']
+2022-08-05,"['Nonfarm Payrolls', 'U.S. Baker Hughes Oil Rig Count']"
+2022-08-09,['EIA Short-Term Energy Outlook']
+2022-08-10,['EIA Short-Term Energy Outlook']
+2022-08-11,"['IEA Monthly Report', 'OPEC Monthly Report', 'Continuing Jobless Claims', 'PPI', '30-Year Bond Auction']"
+2022-08-12,"['Michigan Consumer Expectations', 'WASDE Report', 'U.S. Baker Hughes Oil Rig Count']"
+2022-08-17,"['Retail Sales', 'Crude Oil Inventories', 'FOMC Meeting Minutes']"
+2022-08-18,['Continuing Jobless Claims']
+2022-08-19,['U.S. Baker Hughes Oil Rig Count']
+2022-08-24,"['Durable Goods Orders', 'Crude Oil Inventories']"
+2022-08-25,"['Continuing Jobless Claims', 'Core PCE Prices']"
+2022-08-26,"['Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2022-08-30,['JOLTs Job Openings']
+2022-08-31,['Crude Oil Inventories']
+2022-09-01,"['Continuing Jobless Claims', 'ISM Manufacturing PMI']"
+2022-09-02,"['Nonfarm Payrolls', 'U.S. Baker Hughes Oil Rig Count']"
+2022-09-06,['ISM Non-Manufacturing PMI']
+2022-09-07,['EIA Short-Term Energy Outlook']
+2022-09-08,"['Continuing Jobless Claims', 'Crude Oil Inventories']"
+2022-09-09,['U.S. Baker Hughes Oil Rig Count']
+2022-09-12,"['WASDE Report', '10-Year Note Auction']"
+2022-09-13,"['OPEC Monthly Report', 'CPI', '30-Year Bond Auction']"
+2022-09-14,"['IEA Monthly Report', 'PPI', 'Crude Oil Inventories']"
+2022-09-15,"['Continuing Jobless Claims', 'Retail Sales']"
+2022-09-16,"['Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2022-09-21,"['Crude Oil Inventories', 'FOMC Statement']"
+2022-09-22,['Continuing Jobless Claims']
+2022-09-23,['U.S. Baker Hughes Oil Rig Count']
+2022-09-27,['Durable Goods Orders']
+2022-09-28,['Crude Oil Inventories']
+2022-09-29,"['Continuing Jobless Claims', 'Core PCE Prices']"
+2022-09-30,"['Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2022-10-03,['ISM Manufacturing PMI']
+2022-10-04,['JOLTs Job Openings']
+2022-10-05,"['ISM Non-Manufacturing PMI', 'Crude Oil Inventories']"
+2022-10-06,['Continuing Jobless Claims']
+2022-10-07,"['Nonfarm Payrolls', 'U.S. Baker Hughes Oil Rig Count']"
+2022-10-12,"['OPEC Monthly Report', 'PPI', 'EIA Short-Term Energy Outlook', 'WASDE Report', '10-Year Note Auction', 'FOMC Meeting Minutes']"
+2022-10-13,"['IEA Monthly Report', 'Continuing Jobless Claims', 'CPI', 'Crude Oil Inventories', '30-Year Bond Auction']"
+2022-10-14,"['Retail Sales', 'Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2022-10-19,['Crude Oil Inventories']
+2022-10-20,['Continuing Jobless Claims']
+2022-10-21,['U.S. Baker Hughes Oil Rig Count']
+2022-10-26,['Crude Oil Inventories']
+2022-10-27,"['Continuing Jobless Claims', 'Core PCE Prices', 'Durable Goods Orders']"
+2022-10-28,"['Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2022-11-01,"['ISM Manufacturing PMI', 'JOLTs Job Openings']"
+2022-11-02,"['Crude Oil Inventories', 'FOMC Statement']"
+2022-11-03,"['Continuing Jobless Claims', 'ISM Non-Manufacturing PMI']"
+2022-11-04,"['Nonfarm Payrolls', 'U.S. Baker Hughes Oil Rig Count']"
+2022-11-08,['EIA Short-Term Energy Outlook']
+2022-11-09,"['Crude Oil Inventories', 'WASDE Report', '10-Year Note Auction']"
+2022-11-10,"['Continuing Jobless Claims', 'CPI', '30-Year Bond Auction']"
+2022-11-11,"['Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2022-11-14,['OPEC Monthly Report']
+2022-11-15,"['IEA Monthly Report', 'PPI']"
+2022-11-16,"['Retail Sales', 'Crude Oil Inventories']"
+2022-11-17,['Continuing Jobless Claims']
+2022-11-18,['U.S. Baker Hughes Oil Rig Count']
+2022-11-23,"['Continuing Jobless Claims', 'Durable Goods Orders', 'Michigan Consumer Expectations', 'Crude Oil Inventories', 'U.S. Baker Hughes Oil Rig Count', 'FOMC Meeting Minutes']"
+2022-11-30,"['Core PCE Prices', 'JOLTs Job Openings', 'Crude Oil Inventories']"
+2022-12-01,"['Continuing Jobless Claims', 'ISM Manufacturing PMI']"
+2022-12-02,"['Nonfarm Payrolls', 'U.S. Baker Hughes Oil Rig Count']"
+2022-12-05,['ISM Non-Manufacturing PMI']
+2022-12-06,['EIA Short-Term Energy Outlook']
+2022-12-07,['Crude Oil Inventories']
+2022-12-08,['Continuing Jobless Claims']
+2022-12-09,"['PPI', 'Michigan Consumer Expectations', 'WASDE Report', 'U.S. Baker Hughes Oil Rig Count']"
+2022-12-12,['10-Year Note Auction']
+2022-12-13,"['OPEC Monthly Report', 'CPI', '30-Year Bond Auction']"
+2022-12-14,"['IEA Monthly Report', 'Crude Oil Inventories', 'FOMC Statement']"
+2022-12-15,"['Continuing Jobless Claims', 'Retail Sales']"
+2022-12-16,['U.S. Baker Hughes Oil Rig Count']
+2022-12-21,['Crude Oil Inventories']
+2022-12-22,"['Continuing Jobless Claims', 'Core PCE Prices']"
+2022-12-23,"['Durable Goods Orders', 'Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2022-12-29,"['Continuing Jobless Claims', 'Crude Oil Inventories']"
+2022-12-30,"['Continuing Jobless Claims', 'Crude Oil Inventories']"
+2023-01-02,"[""United States - New Year's Day""]"
+2023-01-04,"['ISM Manufacturing PMI', 'JOLTs Job Openings', 'FOMC Meeting Minutes']"
+2023-01-05,"['Continuing Jobless Claims', 'Crude Oil Inventories']"
+2023-01-06,"['Nonfarm Payrolls', 'ISM Non-Manufacturing PMI', 'U.S. Baker Hughes Oil Rig Count']"
+2023-01-11,"['Crude Oil Inventories', '10-Year Note Auction']"
+2023-01-12,"['Continuing Jobless Claims', 'CPI', 'WASDE Report', '30-Year Bond Auction']"
+2023-01-13,"['Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2023-01-17,['OPEC Monthly Report']
+2023-01-18,"['IEA Monthly Report', 'PPI', 'Retail Sales']"
+2023-01-19,"['Continuing Jobless Claims', 'Crude Oil Inventories']"
+2023-01-20,['U.S. Baker Hughes Oil Rig Count']
+2023-01-25,['Crude Oil Inventories']
+2023-01-26,"['Continuing Jobless Claims', 'Core PCE Prices', 'Durable Goods Orders']"
+2023-01-27,"['Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2023-02-01,"['ISM Manufacturing PMI', 'JOLTs Job Openings', 'Crude Oil Inventories', 'FOMC Statement']"
+2023-02-02,['Continuing Jobless Claims']
+2023-02-03,"['Nonfarm Payrolls', 'ISM Non-Manufacturing PMI', 'U.S. Baker Hughes Oil Rig Count']"
+2023-02-07,['EIA Short-Term Energy Outlook']
+2023-02-08,"['Crude Oil Inventories', 'WASDE Report', '10-Year Note Auction']"
+2023-02-09,"['Continuing Jobless Claims', '30-Year Bond Auction']"
+2023-02-10,"['Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2023-02-14,"['OPEC Monthly Report', 'CPI']"
+2023-02-15,"['IEA Monthly Report', 'Retail Sales', 'Crude Oil Inventories']"
+2023-02-16,"['Continuing Jobless Claims', 'PPI']"
+2023-02-17,['U.S. Baker Hughes Oil Rig Count']
+2023-02-22,['FOMC Meeting Minutes']
+2023-02-23,"['Continuing Jobless Claims', 'Core PCE Prices', 'Crude Oil Inventories']"
+2023-02-24,"['Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2023-02-25,"['Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2023-02-27,['Durable Goods Orders']
+2023-03-01,"['ISM Manufacturing PMI', 'Crude Oil Inventories']"
+2023-03-02,['Continuing Jobless Claims']
+2023-03-03,"['ISM Non-Manufacturing PMI', 'U.S. Baker Hughes Oil Rig Count']"
+2023-03-07,"['Fed Chair Powell Testifies', 'EIA Short-Term Energy Outlook']"
+2023-03-08,"['Fed Chair Powell Testifies', 'JOLTs Job Openings', 'Crude Oil Inventories', 'WASDE Report', '10-Year Note Auction']"
+2023-03-09,"['Fed Chair Powell Testifies', 'JOLTs Job Openings', 'Crude Oil Inventories', 'WASDE Report', '10-Year Note Auction']"
+2023-03-10,"['Nonfarm Payrolls', 'U.S. Baker Hughes Oil Rig Count']"
+2023-03-14,"['OPEC Monthly Report', 'CPI']"
+2023-03-15,"['IEA Monthly Report', 'PPI', 'Retail Sales', 'Crude Oil Inventories']"
+2023-03-16,['Continuing Jobless Claims']
+2023-03-17,"['Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2023-03-22,['Crude Oil Inventories']
+2023-03-23,['Continuing Jobless Claims']
+2023-03-24,"['Durable Goods Orders', 'U.S. Baker Hughes Oil Rig Count']"
+2023-03-29,['Crude Oil Inventories']
+2023-03-30,"['Continuing Jobless Claims', 'Core PCE Prices']"
+2023-03-31,"['Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2023-04-03,['ISM Manufacturing PMI']
+2023-04-04,['JOLTs Job Openings']
+2023-04-05,"['ISM Non-Manufacturing PMI', 'Crude Oil Inventories']"
+2023-04-06,"['ISM Non-Manufacturing PMI', 'Crude Oil Inventories']"
+2023-04-07,['Nonfarm Payrolls']
+2023-04-11,"['EIA Short-Term Energy Outlook', 'WASDE Report']"
+2023-04-12,"['CPI', 'Crude Oil Inventories', '10-Year Note Auction', 'FOMC Meeting Minutes']"
+2023-04-13,"['OPEC Monthly Report', 'Continuing Jobless Claims', 'PPI', '30-Year Bond Auction']"
+2023-04-14,"['IEA Monthly Report', 'Retail Sales', 'Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2023-04-19,['Crude Oil Inventories']
+2023-04-20,['Continuing Jobless Claims']
+2023-04-21,['U.S. Baker Hughes Oil Rig Count']
+2023-04-26,"['Durable Goods Orders', 'Crude Oil Inventories']"
+2023-04-27,"['Continuing Jobless Claims', 'Core PCE Prices']"
+2023-05-01,['ISM Manufacturing PMI']
+2023-05-02,['JOLTs Job Openings']
+2023-05-03,"['ISM Non-Manufacturing PMI', 'Crude Oil Inventories', 'FOMC Statement']"
+2023-05-04,['Continuing Jobless Claims']
+2023-05-05,"['Nonfarm Payrolls', 'U.S. Baker Hughes Oil Rig Count']"
+2023-05-09,['EIA Short-Term Energy Outlook']
+2023-05-10,"['CPI', 'Crude Oil Inventories', '10-Year Note Auction']"
+2023-05-11,"['OPEC Monthly Report', 'Continuing Jobless Claims', 'PPI', '30-Year Bond Auction']"
+2023-05-12,"['Michigan Consumer Expectations', 'WASDE Report', 'U.S. Baker Hughes Oil Rig Count']"
+2023-05-16,"['IEA Monthly Report', 'Retail Sales']"
+2023-05-17,['Crude Oil Inventories']
+2023-05-18,['Continuing Jobless Claims']
+2023-05-19,['U.S. Baker Hughes Oil Rig Count']
+2023-05-24,"['Crude Oil Inventories', 'FOMC Meeting Minutes']"
+2023-05-25,"['Continuing Jobless Claims', 'Core PCE Prices']"
+2023-05-26,"['Durable Goods Orders', 'Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2023-06-01,"['Continuing Jobless Claims', 'ISM Manufacturing PMI', 'Crude Oil Inventories']"
+2023-06-02,"['Nonfarm Payrolls', 'U.S. Baker Hughes Oil Rig Count']"
+2023-06-05,['ISM Non-Manufacturing PMI']
+2023-06-06,['EIA Short-Term Energy Outlook']
+2023-06-07,['Crude Oil Inventories']
+2023-06-08,['Continuing Jobless Claims']
+2023-06-09,"['WASDE Report', 'U.S. Baker Hughes Oil Rig Count']"
+2023-06-12,['10-Year Note Auction']
+2023-06-13,"['OPEC Monthly Report', 'CPI', '30-Year Bond Auction']"
+2023-06-14,"['IEA Monthly Report', 'PPI', 'Crude Oil Inventories', 'FOMC Statement']"
+2023-06-15,"['Continuing Jobless Claims', 'Retail Sales']"
+2023-06-16,"['Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2023-06-21,['Fed Chair Powell Testifies']
+2023-06-22,"['Continuing Jobless Claims', 'Fed Chair Powell Testifies', 'Crude Oil Inventories']"
+2023-06-23,['U.S. Baker Hughes Oil Rig Count']
+2023-06-27,['Durable Goods Orders']
+2023-06-28,['Crude Oil Inventories']
+2023-06-29,"['Continuing Jobless Claims', 'Core PCE Prices']"
+2023-06-30,"['Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2023-07-03,['ISM Manufacturing PMI']
+2023-07-05,['FOMC Meeting Minutes']
+2023-07-06,"['Continuing Jobless Claims', 'ISM Non-Manufacturing PMI', 'JOLTs Job Openings', 'Crude Oil Inventories']"
+2023-07-07,"['Nonfarm Payrolls', 'U.S. Baker Hughes Oil Rig Count']"
+2023-07-08,"['Nonfarm Payrolls', 'U.S. Baker Hughes Oil Rig Count']"
+2023-07-11,['EIA Short-Term Energy Outlook']
+2023-07-12,"['CPI', 'Crude Oil Inventories', 'WASDE Report', '10-Year Note Auction']"
+2023-07-13,"['IEA Monthly Report', 'OPEC Monthly Report', 'Continuing Jobless Claims', 'PPI', '30-Year Bond Auction']"
+2023-07-14,"['Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2023-07-18,['Retail Sales']
+2023-07-19,['Crude Oil Inventories']
+2023-07-20,['Continuing Jobless Claims']
+2023-07-21,['U.S. Baker Hughes Oil Rig Count']
+2023-07-26,"['Crude Oil Inventories', 'FOMC Statement']"
+2023-07-27,"['Continuing Jobless Claims', 'Core PCE Prices', 'Durable Goods Orders']"
+2023-07-28,"['Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2023-08-01,"['ISM Manufacturing PMI', 'JOLTs Job Openings']"
+2023-08-02,['Crude Oil Inventories']
+2023-08-03,"['Continuing Jobless Claims', 'ISM Non-Manufacturing PMI']"
+2023-08-04,"['Nonfarm Payrolls', 'U.S. Baker Hughes Oil Rig Count']"
+2023-08-08,['EIA Short-Term Energy Outlook']
+2023-08-09,"['Crude Oil Inventories', '10-Year Note Auction']"
+2023-08-10,"['Crude Oil Inventories', '10-Year Note Auction']"
+2023-08-11,"['IEA Monthly Report', 'PPI', 'Michigan Consumer Expectations', 'WASDE Report', 'U.S. Baker Hughes Oil Rig Count']"
+2023-08-15,['Retail Sales']
+2023-08-16,"['Crude Oil Inventories', 'FOMC Meeting Minutes']"
+2023-08-17,['Continuing Jobless Claims']
+2023-08-18,['U.S. Baker Hughes Oil Rig Count']
+2023-08-23,['Crude Oil Inventories']
+2023-08-24,"['Continuing Jobless Claims', 'Durable Goods Orders']"
+2023-08-25,"['Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2023-08-29,['JOLTs Job Openings']
+2023-08-30,"['Core PCE Prices', 'Crude Oil Inventories']"
+2023-08-31,['Continuing Jobless Claims']
+2023-09-01,"['Nonfarm Payrolls', 'ISM Manufacturing PMI', 'U.S. Baker Hughes Oil Rig Count']"
+2023-09-06,['ISM Non-Manufacturing PMI']
+2023-09-07,"['Continuing Jobless Claims', 'Crude Oil Inventories']"
+2023-09-08,['U.S. Baker Hughes Oil Rig Count']
+2023-09-12,"['OPEC Monthly Report', 'EIA Short-Term Energy Outlook', 'WASDE Report', '10-Year Note Auction']"
+2023-09-13,"['IEA Monthly Report', 'CPI', 'Crude Oil Inventories', '30-Year Bond Auction']"
+2023-09-14,"['Continuing Jobless Claims', 'PPI', 'Retail Sales']"
+2023-09-15,"['Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2023-09-20,"['Crude Oil Inventories', 'FOMC Statement']"
+2023-09-21,['Continuing Jobless Claims']
+2023-09-22,['U.S. Baker Hughes Oil Rig Count']
+2023-09-27,"['Durable Goods Orders', 'Crude Oil Inventories']"
+2023-09-28,"['Continuing Jobless Claims', 'Core PCE Prices']"
+2023-09-29,"['Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2023-10-02,['ISM Manufacturing PMI']
+2023-10-03,"['JOLTs Job Openings', 'ISM Manufacturing PMI']"
+2023-10-04,"['ISM Non-Manufacturing PMI', 'Crude Oil Inventories']"
+2023-10-05,['Continuing Jobless Claims']
+2023-10-06,"['Nonfarm Payrolls', 'U.S. Baker Hughes Oil Rig Count']"
+2023-10-11,"['PPI', 'EIA Short-Term Energy Outlook', '10-Year Note Auction', 'FOMC Meeting Minutes']"
+2023-10-12,"['IEA Monthly Report', 'OPEC Monthly Report', 'Continuing Jobless Claims', 'CPI', 'Crude Oil Inventories', 'WASDE Report', '30-Year Bond Auction']"
+2023-10-13,"['Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2023-10-14,"['Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2023-10-17,['Retail Sales']
+2023-10-18,"['Crude Oil Inventories', 'Retail Sales']"
+2023-10-19,['Continuing Jobless Claims']
+2023-10-20,"['U.S. Baker Hughes Oil Rig Count', 'Continuing Jobless Claims']"
+2023-10-25,['Crude Oil Inventories']
+2023-10-26,"['Continuing Jobless Claims', 'Core PCE Prices', 'Durable Goods Orders', 'Crude Oil Inventories']"
+2023-10-27,"['Continuing Jobless Claims', 'Core PCE Prices', 'Durable Goods Orders', 'Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2023-10-28,"['Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2023-11-01,"['ISM Manufacturing PMI', 'JOLTs Job Openings', 'Crude Oil Inventories', 'FOMC Statement']"
+2023-11-02,['Continuing Jobless Claims']
+2023-11-03,"['Nonfarm Payrolls', 'ISM Non-Manufacturing PMI', 'U.S. Baker Hughes Oil Rig Count']"
+2023-11-04,"['Nonfarm Payrolls', 'ISM Non-Manufacturing PMI', 'U.S. Baker Hughes Oil Rig Count']"
+2023-11-07,['EIA Short-Term Energy Outlook']
+2023-11-08,['10-Year Note Auction']
+2023-11-09,"['Continuing Jobless Claims', 'WASDE Report', '30-Year Bond Auction']"
+2023-11-10,"['Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2023-11-13,['OPEC Monthly Report']
+2023-11-14,"['IEA Monthly Report', 'CPI']"
+2023-11-15,"['PPI', 'Retail Sales', 'Crude Oil Inventories', 'IEA Monthly Report', 'CPI']"
+2023-11-16,"['Continuing Jobless Claims', 'PPI', 'Retail Sales', 'Crude Oil Inventories']"
+2023-11-17,"['U.S. Baker Hughes Oil Rig Count', 'Continuing Jobless Claims']"
+2023-11-21,['FOMC Meeting Minutes']
+2023-11-22,"['Continuing Jobless Claims', 'Durable Goods Orders', 'Michigan Consumer Expectations', 'Crude Oil Inventories', 'U.S. Baker Hughes Oil Rig Count']"
+2023-11-29,"['Core PCE Prices', 'Crude Oil Inventories']"
+2023-11-30,"['Continuing Jobless Claims', 'Core PCE Prices', 'Crude Oil Inventories']"
+2023-12-01,"['ISM Manufacturing PMI', 'U.S. Baker Hughes Oil Rig Count']"
+2023-12-02,"['ISM Manufacturing PMI', 'U.S. Baker Hughes Oil Rig Count']"
+2023-12-05,"['ISM Non-Manufacturing PMI', 'JOLTs Job Openings']"
+2023-12-06,['Crude Oil Inventories']
+2023-12-07,['Continuing Jobless Claims']
+2023-12-08,"['Nonfarm Payrolls', 'Michigan Consumer Expectations', 'WASDE Report', 'U.S. Baker Hughes Oil Rig Count', 'Continuing Jobless Claims']"
+2023-12-11,['10-Year Note Auction']
+2023-12-12,"['CPI', 'EIA Short-Term Energy Outlook', '30-Year Bond Auction']"
+2023-12-13,"['OPEC Monthly Report', 'PPI', 'Crude Oil Inventories', 'FOMC Statement']"
+2023-12-14,"['IEA Monthly Report', 'Continuing Jobless Claims', 'Retail Sales']"
+2023-12-15,['U.S. Baker Hughes Oil Rig Count']
+2023-12-20,['Crude Oil Inventories']
+2023-12-21,"['Continuing Jobless Claims', 'Core PCE Prices']"
+2023-12-22,"['Durable Goods Orders', 'Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2023-12-23,"['Durable Goods Orders', 'Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2023-12-28,"['Continuing Jobless Claims', 'Crude Oil Inventories']"
+2023-12-29,['U.S. Baker Hughes Oil Rig Count']
+2024-01-01,"[""United States - New Year's Day""]"
+2024-01-02,"[""United States - New Year's Day""]"
+2024-01-03,"['ISM Manufacturing PMI', 'JOLTs Job Openings', 'FOMC Meeting Minutes']"
+2024-01-04,"['Continuing Jobless Claims', 'Crude Oil Inventories']"
+2024-01-05,"['Nonfarm Payrolls', 'ISM Non-Manufacturing PMI', 'U.S. Baker Hughes Oil Rig Count']"
+2024-01-09,['EIA Short-Term Energy Outlook']
+2024-01-10,"['Crude Oil Inventories', '10-Year Note Auction']"
+2024-01-11,"['Continuing Jobless Claims', 'CPI', '30-Year Bond Auction']"
+2024-01-12,"['PPI', 'WASDE Report', 'U.S. Baker Hughes Oil Rig Count', 'Continuing Jobless Claims', 'CPI', '30-Year Bond Auction']"
+2024-01-17,"['OPEC Monthly Report', 'Retail Sales']"
+2024-01-18,"['IEA Monthly Report', 'Continuing Jobless Claims', 'Crude Oil Inventories']"
+2024-01-19,"['Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2024-01-20,"['Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2024-01-24,['Crude Oil Inventories']
+2024-01-25,"['Continuing Jobless Claims', 'Core PCE Prices', 'Durable Goods Orders', 'Crude Oil Inventories']"
+2024-01-26,['U.S. Baker Hughes Oil Rig Count']
+2024-01-30,['JOLTs Job Openings']
+2024-01-31,"['Crude Oil Inventories', 'FOMC Statement', 'JOLTs Job Openings']"
+2024-02-01,"['Continuing Jobless Claims', 'ISM Manufacturing PMI', 'Crude Oil Inventories', 'FOMC Statement']"
+2024-02-02,"['Nonfarm Payrolls', 'Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2024-02-05,['ISM Non-Manufacturing PMI']
+2024-02-06,['EIA Short-Term Energy Outlook']
+2024-02-07,"['Crude Oil Inventories', '10-Year Note Auction', 'EIA Short-Term Energy Outlook']"
+2024-02-08,"['Continuing Jobless Claims', 'WASDE Report', '30-Year Bond Auction', 'Crude Oil Inventories', '10-Year Note Auction']"
+2024-02-09,['U.S. Baker Hughes Oil Rig Count']
+2024-02-13,"['OPEC Monthly Report', 'CPI']"
+2024-02-14,['Crude Oil Inventories']
+2024-02-15,"['IEA Monthly Report', 'Continuing Jobless Claims', 'Retail Sales', 'Crude Oil Inventories']"
+2024-02-16,"['PPI', 'Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2024-02-21,['FOMC Meeting Minutes']
+2024-02-22,"['Continuing Jobless Claims', 'Crude Oil Inventories']"
+2024-02-23,['U.S. Baker Hughes Oil Rig Count']
+2024-02-27,['Durable Goods Orders']
+2024-02-28,"['Core PCE Prices', 'Crude Oil Inventories']"
+2024-02-29,['Continuing Jobless Claims']
+2024-03-01,"['ISM Manufacturing PMI', 'Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2024-03-05,['ISM Non-Manufacturing PMI']
+2024-03-06,"['Fed Chair Powell Testifies', 'JOLTs Job Openings', 'Crude Oil Inventories']"
+2024-03-07,"['Continuing Jobless Claims', 'Fed Chair Powell Testifies']"
+2024-03-08,"['Nonfarm Payrolls', 'WASDE Report', 'U.S. Baker Hughes Oil Rig Count']"
+2024-03-09,"['Nonfarm Payrolls', 'WASDE Report', 'U.S. Baker Hughes Oil Rig Count']"
+2024-03-12,"['OPEC Monthly Report', 'CPI', 'EIA Short-Term Energy Outlook', '10-Year Note Auction']"
+2024-03-13,"['Crude Oil Inventories', '30-Year Bond Auction']"
+2024-03-14,"['IEA Monthly Report', 'Continuing Jobless Claims', 'PPI', 'Retail Sales']"
+2024-03-15,"['Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2024-03-20,"['Crude Oil Inventories', 'FOMC Statement']"
+2024-03-21,['Continuing Jobless Claims']
+2024-03-22,['U.S. Baker Hughes Oil Rig Count']
+2024-03-26,['Durable Goods Orders']
+2024-03-27,['Crude Oil Inventories']
+2024-03-28,"['Continuing Jobless Claims', 'Core PCE Prices', 'Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2024-08-14,"['CPI', 'Crude Oil Inventories']"
+2024-08-15,"['Continuing Jobless Claims', 'Retail Sales']"
+2024-08-16,"['Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2024-08-21,"['Crude Oil Inventories', 'FOMC Meeting Minutes']"
+2024-08-22,['Continuing Jobless Claims']
+2024-08-23,['U.S. Baker Hughes Oil Rig Count']
+2024-08-26,['Durable Goods Orders']
+2024-08-28,['Crude Oil Inventories']
+2024-08-29,"['Continuing Jobless Claims', 'Core PCE Prices']"
+2024-08-30,"['Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
+2024-09-03,['ISM Manufacturing PMI']
+2024-09-04,['JOLTs Job Openings']
+2024-09-05,"['Continuing Jobless Claims', 'ISM Non-Manufacturing PMI', 'Crude Oil Inventories']"
+2024-09-06,"['Nonfarm Payrolls', 'U.S. Baker Hughes Oil Rig Count']"
+2024-09-11,"['CPI', 'Crude Oil Inventories', '10-Year Note Auction']"
+2024-09-12,"['IEA Monthly Report', 'Continuing Jobless Claims', 'PPI', 'WASDE Report', '30-Year Bond Auction']"
+2024-09-13,"['Michigan Consumer Expectations', 'U.S. Baker Hughes Oil Rig Count']"
