@@ -1,66 +1,85 @@
-from openbb_terminal.sdk import openbb
+from openbb import obb as openbb
+from sqlalchemy import MetaData, Table, Column, String, Double, inspect
+import modules.db_funcs as db
 import pandas as pd
-
+from datetime import datetime
+from io import StringIO
+import requests
 
 class Rates:
-
-    def __init__(self):
+    def __init__(self,  engine, sig_digits=2):
+        
         self.rates_folder = "data/rates"
+        self.table_name = "us_treasury_yield_curve"
+        self.engine = engine
+        self.sig_digits = sig_digits
+        self.metadata = MetaData()
 
 
-    def get_current_yc(self):
-        # update yield curve
-        yc_link = 'https://home.treasury.gov/resource-center/data-chart-center/interest-rates/daily-treasury-rates.csv/2024/all?type=daily_treasury_yield_curve&field_tdr_date_value=2024&page&_format=csv'
-        yc = pd.read_csv(yc_link)
-        yc.drop(columns=['2 Mo', '4 Mo'], inplace=True)
+        self.tbl = Table(
+                self.table_name,
+                self.metadata,
+                Column("date", String(50), primary_key=True),
+                Column("1m", Double),
+                Column("3m", Double),
+                Column("6m", Double),
+                Column("1y", Double),
+                Column("2y", Double),
+                Column("3y", Double),
+                Column("5y", Double),
+                Column("7y", Double),
+                Column("10y", Double),
+                Column("20y", Double),
+                Column("30y", Double),
+            )
+      
 
-        # rename columns for concatenation
-        new_cols = ['Date', '1m', '3m','6m','1y','2y','3y','5y','7y','10y','20y','30y']
+    def __rename_cols(self,yc):
+        new_cols = ['date','1m','3m','6m','1y','2y','3y','5y','7y','10y','20y','30y']
         yc.columns = new_cols
-        yc['Date'] = pd.to_datetime(yc['Date'], format='%m/%d/%Y')
-
         return yc
 
-    def update_yc(self):
-        
-        # gets current yields from treasury
-        yc = self.get_current_yc()
 
-        # open the historical file
+    def __get_local_csv(self):
         yc_fp = self.rates_folder + "/us_yc.csv"
-        h_yc = pd.read_csv(yc_fp)
-        h_yc['Date'] = pd.to_datetime(h_yc['Date'])
+        yc = pd.read_csv(yc_fp)
 
-        # concat with new, sort, and dedupe
-        h_yc = pd.concat([yc, h_yc], axis=0)
-        h_yc.sort_values(by='Date',ascending=False, inplace=True)
-        h_yc.drop_duplicates(subset='Date', keep='first', inplace=True)
-        h_yc.reset_index(inplace=True, drop=True)
-        # write back out to historical file
-        h_yc.to_csv(yc_fp, index=False)
+        # holiday's are listed with a price of '-', we replace that with prev day's price
+        yc.replace('-', method='ffill', inplace=True)
+        yc.bfill(inplace=True)
+        return self.__rename_cols(yc)
 
-        # return update yc
-        return h_yc
 
-    def get_yc_deltas(self,yc):
-        # gets the change in close val from prev day
-        dff = yc.copy()
-        dff = dff[dff['10y'] != '-']                # filter out null days
-        dff.index = pd.to_datetime(dff['Date'])     # date col to index
-        dff.drop(columns=['Date'], inplace=True)    # then drop date
-        dff = dff.astype(float)                     # all date to floats
-        col_names = dff.columns                     # loop through all columns taking the diff
-        for col in col_names:
-            dff[col] = dff[col].diff(periods=-1)
-        # process/clean
-        dff.sort_index(ascending = False, inplace=True)
-        yc_dfp = self.rates_folder + "/us_yc_deltas.csv"
-        dff.to_csv(yc_dfp)
-        return dff
+    # requires the csv to initialize table
+    def create_table(self):
+        if inspect(self.engine).has_table(self.table_name):
+            print("Table already exists. Please remove the table from the database and try again")
+        else:
+            db.create_table(self.engine, self.metadata)
+            yc = self.__get_local_csv()
+            yc.reset_index(inplace=True, drop=True)
+            print(yc.head(2))
+            yc.to_sql(self.table_name, con=self.engine, if_exists='append',index=False)
 
-    def get_hyig(self):
-        out_fp = self.rates_folder + "/hyig.csv"
-        hyig = openbb.fixedincome.icebofa(data_type = "spread", category = "usd", area = "us", grade  = "high_yield", options = False)
-        hyig.rename(columns={'ICE BofA US High Yield Index Option-Adjusted Spread' :'HYIG'}, inplace = True)
-        hyig.to_csv(out_fp, index=True)
-        return hyig.tail(2)
+
+    def __get_curve(self, year='2024'):
+        # add fucntionality to insert year into this string
+        
+        # Download directly from treasury site
+        url='https://home.treasury.gov/resource-center/data-chart-center/interest-rates/daily-treasury-rates.csv/2024/all?type=daily_treasury_yield_curve&field_tdr_date_value=2024&page&_format=csv'
+        s=requests.get(url).text
+        yc=pd.read_csv(StringIO(s))
+
+        # column and date formatting
+        yc.drop(columns=['2 Mo', '4 Mo'], inplace=True)
+        yc['Date'] = pd.to_datetime(yc['Date'], format='%m/%d/%Y').dt.date.astype("string")
+        
+        # we only want records that are newer than the ones we have
+        last_date = db.get_most_recent_date(self.engine, self.tbl)
+        yc =yc[yc['Date'] > last_date]
+        return self.__rename_cols(yc)
+
+
+    def update_table(self):
+        idx = self.__get_curve()
+        idx.to_sql(self.table_name, con=self.engine, if_exists='append',index=False)

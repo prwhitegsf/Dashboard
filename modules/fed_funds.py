@@ -1,7 +1,7 @@
 
 from datetime import datetime
 import pandas as pd
-from openbb_terminal.sdk import openbb
+from openbb import obb as openbb
 
 class FedFunds:
 

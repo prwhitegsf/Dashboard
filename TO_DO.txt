@@ -1,0 +1,6 @@
+1. Migrate from csv's to pg db. 
+    - Currently functional in the the economic_calendar and price_index modules, us yield curve
+    - Add Yield Curve Deltas, HYIG and Fed Funds (which will require some more thought)
+2. PriceIndex fields are all strings, change to Double 
+3. add some clean tables and graphing functionality to Dashboard.ipynb for data inspection while working out the dash design
+ 
