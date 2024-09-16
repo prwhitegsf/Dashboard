@@ -15,3 +15,4 @@
   * apply conditional formatting to table
 
 - generally improve the visual aesthetic
+- clean the dash layout code
